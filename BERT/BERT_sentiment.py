@@ -1,3 +1,5 @@
+## Using Bert from HF for sentiment analysis, with Pytorch.
+
 import torch
 import transformers
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
