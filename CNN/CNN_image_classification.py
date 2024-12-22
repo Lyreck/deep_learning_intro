@@ -1,5 +1,9 @@
 ## Using Keras to ceate from the ground up a Image classification model
 ## The model recognizes planes from cars.
+## Several tests and evaluations to experiment with the omdel architecture, training data...
+## The dataset is not mine, which means it is not included on my GitHub page.
+
+## This code was originally a notebook, and some parts of code might not work due to retrocompatibility issues with Keras.
 
 from keras.preprocessing.image import load_img
 from keras import backend as K
