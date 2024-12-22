@@ -1,7 +1,6 @@
 ## First time building a sentiment analysis model. Done in 2 hours during a practical session in class.
 ## Data loading, cleaning, tokenization, training, evaluation and prediction all in one place on US Airlines sentiment data.
 
-
 #Necessary imports
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
